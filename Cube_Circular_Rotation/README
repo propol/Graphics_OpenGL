@@ -1,1 +1,2 @@
-
+3D Rotating Cube around a point in space and according to a given vector. Also changes size during its movement according to a given scaling factor.
+Made in Visual Studio 2010.
